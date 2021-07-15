@@ -959,6 +959,7 @@ img {
 
 /* About Us
 --------------------------- */
+
  
 .aboutUs-container {
 background-repeat: no-repeat;
@@ -966,8 +967,9 @@ background-position: right;
 background-size: auto 100%;
 background-position-y: 70px;
 }
+
 #about-us, h2, h3, h6, p {
-/* color: #0A1525; */
+    color: #2a2a2a; 
 }
 #about-us .read-more{
 	border: 1px solid #ED5441;
@@ -975,7 +977,7 @@ background-position-y: 70px;
 }
 
 #about-us .read-more:hover{
-	background-color: #e74c3c;
+	background-color: #161616;
 	border: 1px solid #e74c3c;
 	color: #fff;
 }
@@ -1389,14 +1391,14 @@ transition: all .3s;
 }
 
 .footer_bottom {
-    border-top: 1px solid #CE6CAB;
+    border-top: 1px solid #FFF;
     padding: 25px 0;
 }
 
 .footer_bottom span {
     display: block;
     font-size: 14px;
-    color: #F1ADD9;
+    color: #fff;
     text-align: center;
 }
 
@@ -2480,12 +2482,14 @@ width: 99%;
 display:none;
 }
 }
-section#experience {
-    margin-bottom: 60px;
-}
+
 /*-------------------------------*/
 /*    Carousel Fade Transition   */
 /*-------------------------------*/
+section#experience {
+    margin-bottom: 60px;
+    background: #2a2a2a;
+}
 
 #fade-quote-carousel.carousel {
   padding-bottom: 60px;
@@ -2506,7 +2510,7 @@ section#experience {
   bottom: 10px;
 }
 #fade-quote-carousel.carousel .carousel-indicators > li {
-  background-color: #e84a64;
+  background-color: #fff;
   border: none;
 }
 #fade-quote-carousel blockquote {
