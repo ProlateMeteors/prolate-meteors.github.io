@@ -650,11 +650,11 @@ div#main-nav {
     /* border: 1px solid #FFFFFF; */
     border-radius: 50%;
     padding: 6px 0 0;
-    background-color: #A92178;
+    background-color: #FEE16F;
 }
 
 .service_icon i {
-  color: #FEE16F;
+  color: #2a2a2a;
 font-size: 40px;
 margin-top: 0;
 position: relative;
@@ -676,7 +676,7 @@ color:#fff;
 }
 .service_block p {
     font-size: 16px;
-    color: #FFC0E8;
+    color: #fee16f;
     margin: 0 0 35px 0;
 }
 	
