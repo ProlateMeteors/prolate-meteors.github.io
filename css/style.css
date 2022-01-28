@@ -97,12 +97,12 @@ top: 64%;
   position: absolute;
 }
 .carousel-indicators li {
-  background-color: rgba(0,0,0,0);
-  border: 1px solid #2a2a2a;
+  background-color: rgba(255,255,255);
+  border: 1px solid #FFFFFF;
   border-radius: 0;
 }
 .carousel-indicators .active {
-  background-color: #2a2a2a;
+  background-color: ##FFFFFF;
 }
 .caption h2{
 color: #FFFFFF;
@@ -2486,13 +2486,22 @@ display:none;
 /*-------------------------------*/
 /*    Carousel Fade Transition   */
 /*-------------------------------*/
+
 section#experience {
     margin-bottom: 60px;
     background: #2a2a2a;
+    color: #fff;
+}
+
+section#experience p{
+    margin-bottom: 60px;
+    background: #2a2a2a;
+    color: #fff;
 }
 
 #fade-quote-carousel.carousel {
   padding-bottom: 60px;
+  background: #2a2a2a;
 }
 #fade-quote-carousel.carousel .carousel-inner .item {
   opacity: 0;
