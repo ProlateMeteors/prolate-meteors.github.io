@@ -384,8 +384,11 @@ p {
 .navStyle ul li a {
     display: block;
     font-size: 15px;
+    float: left;
+    display: block;
     color: #222222;
     font-family: 'Raleway', sans-serif;
+    text-align: center;
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 400;
