@@ -399,6 +399,7 @@ p {
 
 .navStyle ul li a:hover {
     color: #ED5441;
+    background: #222222;
 }
 
 .navStyle > li > a:hover, .nav > li > a:focus {
