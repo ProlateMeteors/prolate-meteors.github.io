@@ -405,17 +405,17 @@ p {
 .navStyle > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
     color: #ED5441;
-    background-color: transparent;
+    background-color: #222222;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
     color: #FFFFFF;
-    background-color: transparent;
+    background-color: #222222;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
     color: #FFD688;
-    background-color: transparent;
+    background-color: #222222;
     border-radius: 4px;
 }
 
@@ -423,7 +423,7 @@ p {
 .navStyle > li.active > a:hover {
     text-decoration: none;
     color: #ED5441;
-    background-color: transparent;
+    background-color: #222222;
 }
 
 .borderLeft {
