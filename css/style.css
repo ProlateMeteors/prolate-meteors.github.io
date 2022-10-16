@@ -76,6 +76,7 @@ a, a:hover, a:active {
 .carousel-inner,
 .carousel-inner .item {
   height: 100%;
+  background: #2a2a2a;
 }
 .quote {
     text-align: center;
