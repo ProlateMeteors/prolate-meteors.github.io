@@ -315,8 +315,9 @@ p {
 
 #header_wrapper {
     background: #2a2a2a;
-    padding: 15px 0px;
+    padding: 0px 0px;
     position: relative;
+    width: 100%;
     border-top: 2px solid #fff;
 }
 
@@ -327,7 +328,6 @@ p {
 
 .logo a{
     float: left;
-	
     font-size: 28px;
     line-height: 50px;
     color: #FF6C71;
@@ -371,7 +371,7 @@ p {
 
 .navStyle ul li {
     display: inline-block;
-    margin: 0 5px;
+    margin: 0 0px;
 }
 
 .navStyle ul li:first-child {
