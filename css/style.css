@@ -341,6 +341,7 @@ p {
   height: 60px;
   width: auto; /* correct proportions to specified height */
   border-radius: 50%; /* makes it a circle */
+  top: 0;
 }
 
 .res-nav_click {
