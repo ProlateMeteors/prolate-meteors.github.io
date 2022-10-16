@@ -102,7 +102,7 @@ top: 64%;
   border-radius: 0;
 }
 .carousel-indicators .active {
-  background-color: ##FFFFFF;
+  background-color: #FFFFFF;
 }
 .caption h2{
 color: #FFFFFF;
@@ -331,6 +331,16 @@ p {
     font-size: 28px;
     line-height: 50px;
     color: #FF6C71;
+    display: inline-block;
+}
+
+#logo {
+  display: inline-block;
+  margin: 15px; /* margin: 20px was off */
+  float: left;
+  height: 60px;
+  width: auto; /* correct proportions to specified height */
+  border-radius: 50%; /* makes it a circle */
 }
 
 .res-nav_click {
