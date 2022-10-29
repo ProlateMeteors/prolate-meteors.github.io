@@ -1502,7 +1502,7 @@ transition: all .3s;
 /* Portfolio */	
 	
 .container.portfolio_title {
-    padding-bottom: 0px;
+    padding-bottom: 10px;
 }
 
 #portfolio {
