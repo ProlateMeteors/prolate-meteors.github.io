@@ -988,9 +988,14 @@ background-size: auto 100%;
 background-position-y: 70px;
 }
 
-#about-us, h2, h3, h6, p {
+#about-us, h2, h3 {
     color: #FFFFFF ; 
 }
+
+#about-us, h6, p {
+    color: #2A2A2A ; 
+}
+
 #about-us .read-more{
 	border: 1px solid #ED5441;
 	color: #1a1a1a;
