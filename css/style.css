@@ -2413,7 +2413,7 @@ line-height:22px;
 .service_block h3 { 
 font-size: 16px;
 }
-service_block p {
+.service_block p {
 font-size: 14px; 
 margin: 0px;
 margin-bottom: 20px;
@@ -2427,7 +2427,7 @@ margin: 0 18px;
 .page_section.team{
 padding: 40px 0;
 }
-, #clients {
+#clients {
 padding: 40px 0;
 }
 .client_logos ul li {
@@ -2442,7 +2442,7 @@ float: left;
 .contact_section{
 margin:0;
 }
-h2, .contact_section h2 {
+.contact_section h2 {
 font-size: 30px;
 }
 .page_section.contact {
