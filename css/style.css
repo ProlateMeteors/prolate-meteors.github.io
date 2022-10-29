@@ -988,11 +988,11 @@ background-size: auto 100%;
 background-position-y: 70px;
 }
 
-#about-us, h2, h3 {
+#about-us, h2 {
     color: #FFFFFF ; 
 }
 
-#about-us, h6, p {
+#about-us, h3, h6, p {
     color: #2A2A2A ; 
 }
 
