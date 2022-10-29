@@ -835,6 +835,7 @@ a.contact_btn:hover {
 .portfolioContainer {
     margin: 0 auto;
     padding-left: 15px;
+    padding-bottom: 10px
     width: auto !important;
 }
 
