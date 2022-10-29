@@ -989,12 +989,12 @@ background-position-y: 70px;
 }
 
 #about-us, h2, h3, h6 {
-    color: #FFFFFF ; 
+    color: #2A2A2A ; 
 }
 
 
 #about-us, p {
-    color: #2A2A2A ; 
+    color:  #FFFFFF; 
 }
 
 #about-us .read-more{
