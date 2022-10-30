@@ -2608,3 +2608,10 @@ section#experience p{
   border-right: 15px solid transparent;
   border-bottom: 15px solid black;
 }
+.progress-bar {
+  height: 1rem;
+  background: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
