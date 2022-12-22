@@ -1221,6 +1221,12 @@ transition: all .3s;
     text-transform: uppercase;
 }
 
+.contact_section h6 {
+    font-size: 18px;
+    color: #ffffff;
+    margin: 0 0 50px 0;
+}
+
 .contact_block {
     text-align: center;
 }
